@@ -77,7 +77,6 @@ header nav .branding{
 }
 .hero{
     padding:3rem 0;
-    margin-top: 80px;
 }
 .hero .left img{
     width:400px;
@@ -499,9 +498,6 @@ footer .copyright{
     }
     .hero .right h1{
         font-size: 3rem;
-    }
-    .hero{
-        padding-top:10rem;
     }
     header{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 27% 89%, 0 100%);
